@@ -2,7 +2,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Kaliyappan</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img aign="right" align-item="center" alt="coding" width="900" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img aign="right" align-item="center" alt="coding" width="900" height="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaliyappan1&label=Profile%20views&color=0e75b6&style=flat" alt="kaliyappan1" /> </p>
 
