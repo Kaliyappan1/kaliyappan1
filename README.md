@@ -1,4 +1,4 @@
-![Master Head](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)
+![Master Head](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Kaliyappan</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
