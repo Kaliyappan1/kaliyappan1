@@ -12,17 +12,17 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaliyappan1.Kaliyappan1&"  />
 </div>
 
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">A passionate frontend and backend developer from India</h3>
+<h1 align="left">A passionate frontend and backend developer from India</h1>
 
 ###
 
