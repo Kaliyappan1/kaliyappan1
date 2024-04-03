@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Kaliyappan1/kaliyappan1/blob/main/Untitled%20design%20(1).gif"  />
+  <img height="100" width="700" src="https://github.com/Kaliyappan1/kaliyappan1/blob/main/Untitled%20design%20(1).gif"  />
 </div>
 
 
