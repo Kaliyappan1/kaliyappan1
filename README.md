@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React , API<br><br>💬 Ask me about web developer<br><br>📫 How to reach me <a href="kaliyappanrtech@gamil.com">kaliyappanrtech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
+<p align="left">🌱 I’m currently learning React , API<br><br>💬 Ask me about web developer<br><br>📫 How to reach me <a href="kaliyappanr.tech@gamil.com">kaliyappanrtech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
 
 ###
 
