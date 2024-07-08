@@ -1,31 +1,27 @@
 <div align="center">
-  <img src="https://github.com/Kaliyappan1/kaliyappan1/blob/main/Untitled%20design%20(1).gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kaliyappn%20Git&animation=fadeIn&fontAlignY=40&descAlign=71&textBg=false&fontAlign=75&fontSize=60"  />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<p>Welcome to my page! </br> I am Kaliyappan, a passionate programmer & front-end developer.</p>
+  <br>
 </div>
 
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaliyappan1.Kaliyappan1&"  />
-</div>
+<div align='center'>
+  
+  ##
 
-###
 
-<h1 align="center">hey there 👋</h1>
+<p>🌱 I’m currently learning React , API<br><br>💬 Ask me about web developer<br><br>📫 How to reach me <a href="mailto:kaliyappanr.tech@gamil.com">kaliyappanr.tech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
 
-###
-
-<h1 align="left">A passionate frontend and backend developer from India</h1>
-
-###
-
-<p align="left">🌱 I’m currently learning React , API<br><br>💬 Ask me about web developer<br><br>📫 How to reach me <a href="mailto:kaliyappanr.tech@gamil.com">kaliyappanr.tech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
-
-###
+##
 
 <h1 align="left">Follow social media</h1>
 
-###
+
+</div>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kaliyappanrangan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -34,10 +30,8 @@
 </div>
 
 ###
+<h3>🛠 Language and tools</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -75,7 +69,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3><br>
 
 ###
 
