@@ -11,7 +11,7 @@
   ##
 
 
-<p>🌱 I’m currently learning React , API<br><br>💬 Ask me about web developer<br><br>📫 How to reach me <a href="mailto:kaliyappanr.tech@gamil.com">kaliyappanr.tech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
+<p>🌱 I’m currently learning React , API<br><br>💬 Ask me about web development<br><br>📫 How to reach me <a href="mailto:kaliyappanr.tech@gamil.com">kaliyappanr.tech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
 
 ##
 
