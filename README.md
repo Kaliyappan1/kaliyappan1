@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kaliyappn%20Git&animation=fadeIn&fontAlignY=40&descAlign=71&textBg=false&fontAlign=75&fontSize=60"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kaliyappan%20Git&animation=fadeIn&fontAlignY=40&descAlign=71&textBg=false&fontAlign=75&fontSize=60"  />
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <p>Welcome to my page! </br> I am Kaliyappan, a passionate programmer & front-end developer.</p>
 </div>
