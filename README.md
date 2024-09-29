@@ -1,30 +1,44 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kaliyappan%20Git&animation=fadeIn&fontAlignY=40&descAlign=71&textBg=false&fontAlign=75&fontSize=60"  />
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<p>Welcome to my page! </br> I am Kaliyappan, a passionate programmer & front-end developer.</p>
+  
+# 👋 Hi, I'm Kaliyappan!
+
+### **Building products** | **Freelancer** | **Full-Stack Developer**
+
+<br/>
+
+I'm passionate about creating solutions that bridge the gap between user needs and technology. With experience in **React.js** for frontend and **Express.js** for backend, I enjoy working on projects that require both creativity and technical expertise.
+
 </div>
 
-###
+### 🚀 What I do:
+-   **Product Development**: From design to deployment.
+- **Full-Stack Projects**: Using `React, Angular, MongoDB, Express.`
+- **Freelancing**: Providing tailored web solutions.
 
-<div align='center'>
-  
-  ##
+### 🛠️ Tech Stack:
+- **Languages**: `JavaScript, Python, TypeScript`
+- **Frontend**: `React.js, Angularjs, Next.js, Tailwind CSS`
+- **Backend**: `Express.js, MongoDB, MySql`
 
+### 💻 Notable Projects:
+- [**Zoom Clone**](https://kaliyappan-zoom-clone.vercel.app): Video conferencing with real-time features.
+- [**Amazon Clone**](https://kaliyappan-amaazon-clone.web.app): E-commerce platform.
+- [**Timesheet App**](https://softmania-timesheet.web.app): Developed for SoftMania Technologies.
 
-<p>🌱 I’m currently learning React , API<br><br>💬 Ask me about web development<br><br>📫 How to reach me <a href="mailto:kaliyappanr.tech@gamil.com">kaliyappanr.tech@gmail.com</a><br><br>⚡ Fun fact i am funny</p>
-
-##
-
+### 🌱 Learning:
+- `JavaScript` optimizations and `SEO` strategies.
 <h1 align="center">Follow social media</h1>
 
 
-</div>
+
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaliyappanrangan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a target="_blank" href="https://www.linkedin.com/in/kaliyappanrangan"><img target="_blank" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a target="_blank" href="https://www.youtube.com/@CodeBea"><img  src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+ <a target="_blank" href="https://www.instagram.com/kaliyappan__r4"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F56040&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+ <a target="_blank" href="https://wa.me/916382689586"> <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
 </div>
 
 ###
@@ -32,21 +46,7 @@
 
 
 <div align="center">
-<!--   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  /> -->
+
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,tailwindcss,bootstrap,py,react,nextjs,angular,ts,vite,netlify,mysql,mongodb,supabase,ps,ai,figma,heroku,firebase,git,aws,bash,vscode" />
 </div>
 
