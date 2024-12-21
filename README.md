@@ -47,7 +47,7 @@ I'm passionate about creating solutions that bridge the gap between user needs a
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,tailwindcss,bootstrap,py,react,nextjs,angular,ts,vite,netlify,mysql,mongodb,supabase,ps,ai,figma,heroku,firebase,git,aws,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,datadog,elasticsearch,nodejs,jquery,linux,py,react,mongodb,figma,firebase,git,aws,bash,vscode" />
 </div>
 
 ###
